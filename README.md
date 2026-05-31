@@ -41,6 +41,6 @@ Coming from tools like JIRA, SharePoint, and Braze, the layout of Cursor felt un
 
 ## First Impressions
 
-Cursor is genuinely interesting. Having Claude and Codex available inside the same environment where you're editing files removes a lot of the back-and-forth I normally do lik draft in Claude, copy, paste somewhere, adjust. Here it's more fluid. I'm still learning where the edges are, but the discomfort is the good kind. I've been using Claude daily in my marketing work for content, research, and workflow building, having it embedded in a coding environment opens up a different set of use cases I want to explore.
+Cursor is genuinely interesting. Having Claude and Codex available inside the same environment where you're editing files removes a lot of the back-and-forth I normally do, like draft in Claude, copy, paste somewhere, and adjust. Here it's more fluid. I'm still learning where the edges are, but the discomfort is the good kind. I've been using Claude daily in my marketing work for content, research, and workflow building. Having it embedded in a coding environment opens up a different set of use cases I want to explore.
 
 I'm not a developer. But I've spent five years building operational systems inside fast-moving teams, and I know that the fastest way to get comfortable with a tool is to use it on a real problem under a real deadline. This was a good first one.
